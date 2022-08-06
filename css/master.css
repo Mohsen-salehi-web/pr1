@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box; }
+  * a {
+    text-decoration: none;
+    color: inherit; }
+
+.m-top {
+  margin-top: 70px !important; }
+
+.slider {
+  background-image: url("../img/slider.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh; }
+
+.font-9 {
+  font-size: 0.9rem; }
+
+.font-12 {
+  font-size: 1.2rem; }
+
+.font-14 {
+  font-size: 1.4rem; }
+
+.font-16 {
+  font-size: 1.4rem; }
